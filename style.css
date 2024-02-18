@@ -29,7 +29,134 @@ font-family: Merriweather;
 font-size: 72px;
 font-weight: 900;
 line-height: 95px;
+margin-top: 1px;
 letter-spacing: 0%;
 text-align: center;
 }
 /* Banner Section End */
+.offer-section{
+    width: 1600px;
+    height: 806px;
+    margin: 120px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Inter;
+}
+.offer-section h1{
+color: rgb(255, 0, 0);
+font-size: 88px;
+font-weight: 700;
+margin-bottom: 46px;
+text-align: center;
+}
+.offer-section p{
+color: rgb(255, 0, 0);
+font-size: 24px;
+font-weight: 500;
+margin-top: 10px;
+margin-bottom: 2px;
+text-align: center;
+}
+.offer-section h3{
+color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-top: 2px;
+text-align: center;
+}
+.offer-section img{
+width: 802.9px;
+height: 500px;
+display: block;
+margin: auto;
+margin-top: 50px;
+}
+/* Offer Section End */
+.party-section{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1320px;
+    height: 600px;
+    margin-top: 120px;
+    border-radius: 16px;
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+.party-section h1{
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+padding: 80px 0px 0px 60px;
+}
+.party-section p{
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin: 25px 0px 50px 0px;
+padding-left: 50px;
+padding-right: 35px;
+text-align: left;
+}
+.btn{
+    background-color:transparent;
+    border: none;
+    color:rgb(255, 255, 255) ;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 50px
+}
+.party-section img{
+width: 349.16px;
+height: 464.65px;
+margin-top: 65px;
+}
+/* party Section End */
+.park-hotel{ 
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+    width: 1320px;
+    height: 482px;
+    margin: 120px auto;
+    padding: 100px 0;
+    font-family: "Inter";
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.park-hotel-content{
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-align: center;
+text-transform: capitalize;
+}
+.park-hotel-content span{
+    color: rgb(255, 0, 0);
+}
+.button{
+    
+        width: 167px;
+        height: 56px;
+        padding: 16px 32px 16px 32px;
+        border-radius: 8px;
+        border: none;
+        background: rgb(255, 0, 0);
+        color: rgb(255, 255, 255);
+        text-transform: uppercase;
+        font-family: "Inter";
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 45px;
+        text-align: center;
+}
+/* park hotel Section End */
