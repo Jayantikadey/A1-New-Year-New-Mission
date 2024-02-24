@@ -435,7 +435,6 @@ footer{
 .footer-icon{
     height: 160px;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
 }
 .footer-icon div img{
@@ -454,3 +453,4 @@ footer{
     margin-left: 139px;  
 }
 
+/*end footer section */
