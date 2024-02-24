@@ -9,7 +9,7 @@
     height: 600px;
     width: 1320px;
     margin-top: 10px;
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Banner\ Image.png);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./images/Banner\ Image.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -76,7 +76,7 @@ margin-top: 50px;
 }
 /* Offer Section End */
 .party-section{
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Vectorrr.png);
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./images/Vectorrr.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 1320px;
