@@ -127,7 +127,7 @@ margin-top: 65px;
     height: 482px;
     margin: 120px auto;
     padding: 100px 0;
-    font-family: "Inter";
+    font-family: Inter;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -153,10 +153,304 @@ text-transform: capitalize;
         background: rgb(255, 0, 0);
         color: rgb(255, 255, 255);
         text-transform: uppercase;
-        font-family: "Inter";
+        font-family: Inter;
         font-size: 20px;
         font-weight: 700;
         margin-top: 45px;
         text-align: center;
 }
 /* park hotel Section End */
+.best-offer-section{
+    width: 1320px;
+    height: 463px;
+    margin: 110px auto;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    font-family: Inter;
+}
+.coming-soon{
+    width: 393px;
+    height: 255px;
+    margin-top: 20px;
+}
+.coming-soon h4{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
+    /*text-align: center; */
+}
+.coming-soon h2{
+    font-family:Merriweather;
+    color: rgb(7, 2, 17);
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.coming-soon p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+}
+.circule-image{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: white;
+    margin: 30px 118px 0px 70px;
+    width: 463px;
+    height: 463px;
+    border: 15px solid rgb(255, 0, 0);
+    height: 420px;
+    width: 420px;
+    border-radius: 50%;
+    
+}
+.new-year-wish{
+    width: 276px;
+    height: 170px;
+    margin-top: 0px;
+}
+.new-year-wish h1{
+color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+text-align: left;
+}
+.new-year-wish p{
+color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+margin-top: 10px;
+text-align: left;
+}
+.new-year-wish img{
+    width: 140px;
+    height: 140px 
+}
+/*end new year wish */
+.holidays-sale{
+   
+    width: 1320px;
+    height: 986.07px;
+    margin: 120px auto;
+    border-radius: 16px 0px 16px 16px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position-y: 700px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.sale-section{
+        width: 1068px;
+        height: 260px;
+        margin: 0px auto;
+}
+.sale-section-title{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px
+}
+.sale-section-headline{
+font-family:Merriweather;
+font-size: 72px;
+font-weight: 900;
+margin: 15px 0px 26px 0px;
+text-align: center;
+}
+.sale-section-headline span{
+    color: rgb(255, 0, 0);
+    font-size: 72px;
+    font-weight: 900;
+    
+}
+.sale-section-dis{
+color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+}
+.sale-section-img{
+    display: flex;
+}
+.sale-section-img1{
+    width: 796.46px;
+    height: 662.07px;
+}
+.sale-section-img2{
+        position: absolute;
+        margin: 130px 0px 0px 770px;
+        width: 250px;
+        height: 250px;
+        transform: rotate(0deg);
+}
+.sale-section-img3{
+    width: 429px;
+    height: 433px;
+    margin: 5px 0px 0px 90px;
+   
+}
+/*end holidays sale */
+.portfolio-section{
+    justify-content: left;
+    align-items: start;
+    text-align: left;
+    width: 1330px;
+    height: 1163px;
+    margin: 120px auto;
+}
+.portfolio-section-cotainer h3{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.portfolio-section-cotainer h1{
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+    font-family: Merriweather;
+}
+.portfolio-section-cotainer p{
+        color: rgba(7, 2, 17, 0.6);
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        margin: 22px 0px 45px 0px;
+}
+ .card-section{
+    margin-bottom: 20px;
+ }
+ .images{
+    margin: 0px 20px 0px 20px;   
+ }
+
+/*end portfolio section */
+.subscribe-section{
+    width: 1320px;
+    height: 616px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 120px auto;
+    padding-top: 80px;
+   
+}
+.subscribe-section h1{
+color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-align: center;
+text-transform: capitalize;
+}
+.subscribe-section p{
+color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+text-align: center;
+margin: 22px 0px 45px 0px;
+}
+.subscribe-input-btn{
+    border-radius: 50px;
+  
+}
+.subscribe-section input{
+    width: 648px;
+    height: 71px;
+    padding-left: 25px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+}
+.subscribe-section button{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    margin-left: -4px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+/*end subscribe section */
+footer{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    color: white;
+    margin-top: 120px; 
+}
+.address-contact-section{
+    width: 1420px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.address{
+    margin-left: 50px;
+}
+.contact{
+    margin-left: 50px;
+}
+.contact p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact img{
+    width: 24px;
+    height: 24px;
+}
+.line{
+    width: 1320px;
+    height: 1px;
+    color: rgba(22, 20, 20, 0.15);
+}
+.footer-icon{
+    height: 160px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.footer-icon div img{
+    width: 64px;
+    height: 64px;
+    padding: 0px 24px 0px 24px;
+}
+.all-rights{
+    display: flex;
+    margin-top: 50px;
+}
+.all-rights p{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 139px;  
+}
+
